@@ -1,0 +1,21 @@
+{
+  "name": "Sistemkjs",
+  "version": "1.0.0",
+  "description": "Custom Baileys for WhatsApp bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sistemkjs",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "github:NEW-KJSVIP/Sistemkjs", 
+    "telegraf": "^4.12.2",
+    "pino": "^7.0.5",
+    "chalk": "^4.1.2",
+    "node-fetch": "^2.6.7"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
